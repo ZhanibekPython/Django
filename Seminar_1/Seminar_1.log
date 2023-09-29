@@ -60,3 +60,7 @@ Not Found: /hello/Johny
 "GET /hello/Johny HTTP/1.1" 404 2614
 C:\Django\Seminar_1\Tasks_and_HW\views.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 9
+"GET /check HTTP/1.1" 200 5
