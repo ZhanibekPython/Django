@@ -15,3 +15,6 @@ def about(request):
 def hello(request):
     logger.info("Hello page")
     return HttpResponse('Hello stranger!')
+
+def check(request):
+    return HttpResponse("Hi hi")
