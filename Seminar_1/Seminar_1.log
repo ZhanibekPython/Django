@@ -64,3 +64,74 @@ Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 "GET / HTTP/1.1" 200 9
 "GET /check HTTP/1.1" 200 5
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 9
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2773
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Seminar_1\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 9
+C:\Django\Seminar_1\Seminar_1\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Seminar_1\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Seminar_2\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 15
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2274
+C:\Django\Seminar_1\Seminar_2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Seminar_1\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 15
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 27
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Django\Seminar_1\Homework2\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 27
