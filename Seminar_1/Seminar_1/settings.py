@@ -38,9 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Tasks_and_HW',
-    'Homework',
+    # 'Tasks_and_HW',
+    # 'Homework',
     'Seminar_2',
+    'Homework2',
 ]
 
 MIDDLEWARE = [
@@ -53,7 +54,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Seminar_1.urls'
+ROOT_URLCONF = 'Homework2.urls'
 
 TEMPLATES = [
     {
